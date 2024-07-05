@@ -1,8 +1,8 @@
 ## I Use ARCH btw!
 
 I'm **Manasvin Shrimali**, a tech-hobbyist from city of lakes, *Udaipur*, India. 
-Just a uni student pretending to understand and learn computer science. *ARCH* enthusiast, Emacs devotee(Follower of **Church** of Emacs){I secretly use Code-OSS}, wannebe Mac and Windows hater ,and Hyprland power user. 
-I hate trendy things. I'm just a little bit overweight and haven't touched grass in like three years.
+Just a uni student pretending to understand and learn computer science. *ARCH* enthusiast, Emacs devotee(Follower of **Church** of Emacs){I secretly use Code-OSS}, Mac and Windows hater ,and Hyprland power user. 
+I hate trendy things. I'm just a little bit overweight and haven't touched grass in like three years. Mildly conservative leftist.
 Here's a little more about me:
 
 #### 🔍 Areas of Interest
@@ -20,4 +20,4 @@ Here's a little more about me:
 
 
 
-- Feel free to explore my repositories and projects and clone them because I have copied them too 😉😉!!
+##### Feel free to explore my repositories and projects and clone them because I have copied them too 😉😉!!
