@@ -6,7 +6,7 @@ I hate trendy things. I'm just a little bit overweight and haven't touched grass
 Here's a little more about me:
 
 #### 🔍 Areas of Interest
-- **Programming Languages:** While I know a bit of **Python**, I'm currently trying to learn The **C** Programming Language. The thrill of understanding low-level programming and system internals keeps me motivated.
+- **Programming Languages:** While I know a bit of **Python, HTML, CSS** I'm currently trying to learn **The C Programming Language**. The thrill of understanding low-level programming and system internals keeps me motivated.
 - **Operating Systems:** I'm an hardcore Linux user(but..), constantly exploring its various distros and functionalities.
   AUR is the best.. and I use the blackarch repo too. I have once also sucessfully installed GENTOO 😅😅. Once I built LFS(Linux-For-Scratch) from a user-script 
 - **Low-Level Hardware:** Understanding how things work at a fundamental level and interacting with hardware directly is something I find incredibly exciting.
