@@ -11,7 +11,7 @@ Here's a little more about me:
   AUR is the best.. and I use the blackarch repo too. I have once also sucessfully installed GENTOO 😅😅. Once I built LFS(Linux-For-Scratch) from a user-script 
 - **Low-Level Hardware:** Understanding how things work at a fundamental level and interacting with hardware directly is something I find incredibly exciting.
 - **Linux on Unusual Devices:** There's something uniquely satisfying about running Linux on devices it's not typically meant for. This interest drives me to experiment and push boundaries.
-- **Hacking:** I have the technical know-how of the Comptia Linux+ and CEH(Certified Ethical Hacker) Certs.
+- **Hacking:** I have the technical know-how of the Comptia Linux+ Cert and admire 'The Jargon File'.
 - **GNU and Richard Stallman:** I have immense respect for GNU and consider **Richard Stallman** to be my **Guruji**. His philosophy and
   contributions to the free software movement i am a fan of them.
 - **Bash Scripting:** Automating tasks and creating simple programs using Bash is joy. I steal other people bash scripts too.
