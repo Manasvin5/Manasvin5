@@ -8,7 +8,7 @@ Here's a little more about me:
 - **Bash Scripting:** Automating tasks and creating simple programs using Bash is joy. I steal other people bash scripts too.
 - **Window Managers:** I'm a big fan of tiling window managers like DWM. They provide a customizable and efficient workspace, aligning perfectly with my unproductive needs.
 - **JavaScript is Bloat - Anyone who takes javascript serious is not a dev**
-I enjoy tinkering and learning about the inner workings of system.
+- I enjoy tinkering and learning about the inner workings of system.
 
 # I Use ARCH btw!
 
