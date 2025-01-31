@@ -1,7 +1,7 @@
 
 
 I'm **Manasvin Shrimali**, a tech-hobbyist from city of lakes, *Udaipur*, India. 
-Just a uni student pretending to understand and learn computer science. *ARCH* enthusiast, Emacs devotee(Follower of **Church** of Emacs){I secretly use Code-OSS}, Mac and Windows hater ,and Hyprland power user. 
+Just a uni student pretending to understand and learn computer science. *ARCH* enthusiast, Emacs devotee(Follower of **Church** of Emacs){I secretly use vscode}, iOS and Windows hater,and Hyprland power user. 
 I hate trendy things. I'm just a little bit overweight and haven't touched grass in like three years. Mildly conservative leftist.
 Here's a little more about me:
 
